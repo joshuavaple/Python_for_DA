@@ -17,7 +17,7 @@ In this assignment in summary, I applied the following techniques. Detailed step
     + Eliminating rows of missing numerical data.
     + Data type correction.
   2. Data Analysis
-    + Grouping by relevant columns followed by perorming group aggregated transformation (summation, max, mean)
+    + Grouping by relevant columns followed by performing group aggregated transformation (summation, max, mean)
     + Eliminating duplicates
     + Sorting 
     + Filtering string containing field with regex and boolean masking
