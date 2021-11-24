@@ -9,6 +9,7 @@ The requirements of this assignment can be summarized as followed:
   2. Time series plotting of key properties of the songs from the most popular artists.
   3. Visualize the trend of popular genres in 2020 by weeks
   4. Preliminary bi-variate plotting of song properties.
+The tool used is Jupiter Notebook
 
 II. WORK SUMMARY
 In this assignment in summary, I applied the following techniques. Detailed step by step are captioned in the Jupiter Notebook file.
